@@ -1,6 +1,6 @@
 # 📊 Impacto das Redes Sociais no Desempenho e Saúde Mental dos Estudantes
 
-![Dashboard de Impacto das Redes Sociais](dashboard_preview.png)
+![Dashboard de Impacto das Redes Sociais](dashboard_preview.PNG)
 
 ## 🎯 O Projeto
 Este projeto de análise de dados explora como o uso das redes sociais afeta o desempenho académico (GPA), a qualidade do sono e os níveis de stress de estudantes universitários. O objetivo foi aplicar uma abordagem rigorosa para extrair insights comportamentais a partir de dados brutos.
